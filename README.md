@@ -1,5 +1,5 @@
 # CodeForLife: Web Basics 2026 - Brilla Veritas Middle School
-Students: Aaron R, Adylen G, Axel E, Chris C, Dulce C, Jhoanny R, Kendelson B, Leonardo G, Liam M, Links B, Nasir B, Neythan R, and Sanaa M.
+Students: Aaron R, Adylen G, Axel E, Chris C, Dulce C, Jhoanny R, Kendelson B, Leonardo G, Liam M, Links B, Nasir B, Neythan R, and Sanaa M
 
 TAs: Alan, Dayana, Elvis, Leslie, Makai, and Stephany
 
